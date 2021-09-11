@@ -1,0 +1,133 @@
+/* ////brilliance///// */
+
+.nav-link {
+    font-size: large;
+}
+
+.dropdown-item {
+    font-style: italic;
+}
+
+.list-unstyled {
+    font-size: small;
+    font-style: oblique;
+    margin-left: 80px;
+    padding-top: 1px;
+}
+
+h4 {
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.p1 {
+    color: rgb(213, 220, 226);
+    margin-left: 60px;
+}
+
+.staffdiv {
+    color: black;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+/*  close ////brilliance///// */
+
+
+/*   ////staffregister///// */
+
+.bg-img {
+    background-image: url("");
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(104, 162, 238);
+}
+
+label {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+input {
+    font-style: italic;
+    font-size: small;
+}
+
+select {
+    font-style: italic;
+    font-size: small;
+}
+
+#register {
+    margin-left: 220px;
+}
+
+p {
+    color: red;
+    font-size: small;
+}
+
+
+/*  close ////staffregister///// */
+
+
+/*   ////adstaffprofile///// */
+
+#grid {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+#grid>div {
+    height: 250px;
+    width: 200px;
+    background-color: rgb(207, 192, 211);
+}
+
+.st1 {
+    width: 200px;
+    height: 180px;
+    align-content: center;
+}
+
+
+/*  close ////adstaffprofile///// */
+
+
+/* *   ////adcoursedetails///// */
+
+.coursetxtlink {
+    font-size: larger;
+}
+
+
+/*  close //   adcourse details///// */
+
+
+/* *   //// studregbutton///// */
+
+#staffbutton {
+    margin-top: 140px;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    color: wheat;
+}
+
+#studbutton {
+    margin-top: 140px;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    color: wheat;
+}
+
+#rowimg {
+    background-image: url('images/vision-bg.jpg');
+}
