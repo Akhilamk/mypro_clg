@@ -39,7 +39,7 @@
                         <div><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="white" class="bi bi-person-fill" viewBox="0 0 16 16">
           <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
         </svg></div>
-                        <button class="btn btn-link"><b style="color: azure;">Login</b></button>
+                        <button class="btn btn-link"><b style="color: azure;"><a href="{{url('sign')}}">Login</a></b></button>
                         <!-- <button type="submit" placeholder="" class="fa fa-search"><span class="ion-ios-search"></span></button> -->
                     </div>
                 </form>
@@ -59,7 +59,7 @@
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"> <b>𝒜𝒷𝑜𝓊𝓉 𝒰𝓈</b></a>
                             <div class="dropdown-menu active">
                                 <a class="dropdown-item" href="gallery"> Gallery</a>
-                                <a class="dropdown-item" href="faqulties"> Faculty1</a>
+                                <a class="dropdown-item" href="faqulties"> Faculty</a>
                                 <a class="dropdown-item" href="recruit"> Recruitment</a>
                                 <a class="dropdown-item" href="terms"> Terms & Conditions</a>
                                 <div class="dropdown-divider"></div>

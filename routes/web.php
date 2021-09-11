@@ -35,3 +35,6 @@ Route::view('recruit','recruit');
 Route::view('terms','terms&con');
 Route::view('staffdash','staffdashboard');
 Route::view('staffdashprofile','staffdashprofile');
+Route::view('sign','signin');
+Route::view('stud','studreg');
+Route::view('statd','staffatendance');
