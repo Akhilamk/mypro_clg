@@ -59,7 +59,7 @@
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"> <b>𝒜𝒷𝑜𝓊𝓉 𝒰𝓈</b></a>
                             <div class="dropdown-menu active">
                                 <a class="dropdown-item" href="gallery"> Gallery</a>
-                                <a class="dropdown-item" href="faqulties"> Faqulty</a>
+                                <a class="dropdown-item" href="faqulties"> Faculty1</a>
                                 <a class="dropdown-item" href="recruit"> Recruitment</a>
                                 <a class="dropdown-item" href="terms"> Terms & Conditions</a>
                                 <div class="dropdown-divider"></div>
