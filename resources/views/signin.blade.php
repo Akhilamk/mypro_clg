@@ -34,7 +34,7 @@
     </form>
     <div class="form-group row">
         <label for="" style="padding-left: 40%;">New User?</label>
-        <a href="" style="color: white;">Register Here</a>
+        <a href="registerbutton" style="color: white;">Register Here</a>
     </div>
     <div class="row" style="height: 300px;"></div>
 </body>

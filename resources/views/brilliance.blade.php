@@ -51,7 +51,7 @@
                             <a href="events" class="nav-link"> <b>𝐸𝓋𝑒𝓃𝓉𝓈</b></a>
                         </li>
                         <li class="nav-item active">
-                            <a href="events" class="nav-link"> <b>𝒩𝑒𝓌𝓈</b></a>
+                            <a href="" class="nav-link"> <b>𝒩𝑒𝓌𝓈</b></a>
                         </li>
 
                         

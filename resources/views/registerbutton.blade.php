@@ -3,10 +3,10 @@
 <div class="row" id="rowimg">
     <div class="col-lg-6 col-sm-12 col-xs-12 col-md-12" style="height: 450px;">
         <div class="content">
-            <img src="{{url('images/staffregbutton.jpg')}}" style="width:  40px;  margin-top: 100px; border-radius: 20px;" alt=""><button onclick="document.location='staffregister'" class="btn btn-outline-light" style="margin-top: 100px; margin-left: 50px; font-size: larger;">  𝐒𝐭𝐚𝐟𝐟  <br> 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧</button>
+            <img src="{{url('images/staffregbutton.jpg')}}" style="width:  40px;  margin-top: 100px; border-radius: 20px;" alt=""><button  class="btn btn-outline-light" style="margin-top: 100px; margin-left: 50px; font-size: larger;"><a href="staffregister" style="font: aliceblue;" >𝐒𝐭𝐚𝐟𝐟  <br> 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧</a>  </button>
         </div>
         <div class="content">
-            <img src="{{url('images/studentregbn.jpg')}}" style="width: 40px; margin-top: 100px; border-radius: 20px;" alt=""><button class="btn btn-outline-light" style="margin-top: 100px; margin-left: 50px; font-size: larger;">  𝐒𝐭𝐮𝐝𝐞𝐧𝐭 <br> 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧</button>
+            <img src="{{url('images/studentregbn.jpg')}}" style="width: 40px; margin-top: 100px; border-radius: 20px;" alt=""><button class="btn btn-outline-light" style="margin-top: 100px; margin-left: 50px; font-size: larger;"><a href="stud" >𝐒𝐭𝐮𝐝𝐞𝐧𝐭 <br> 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧</a>  </button>
 
         </div>
 
