@@ -38,3 +38,4 @@ Route::view('staffdashprofile','staffdashprofile');
 Route::view('sign','signin');
 Route::view('stud','studreg');
 Route::view('statd','staffatendance');
+Route::view('news','adminnews');
