@@ -63,7 +63,7 @@
                         </li>
 
                         <li class="nav-item active">
-                            <a href="events" class="nav-link"> <b>𝒩𝑒𝓌𝓈</b></a>
+                            <a href="news" class="nav-link"> <b>𝒩𝑒𝓌𝓈</b></a>
                         </li>
 
                         <li class="nav-item dropdown active">
