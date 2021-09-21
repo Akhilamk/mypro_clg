@@ -39,3 +39,5 @@ Route::view('sign','signin');
 Route::view('stud','studreg');
 Route::view('statd','staffatendance');
 Route::view('news','adminnews');
+Route::view('adh','adminhome');
+Route::view('adminstud','adminstud');
