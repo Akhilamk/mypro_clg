@@ -41,3 +41,7 @@ Route::view('statd','staffatendance');
 Route::view('news','adminnews');
 Route::view('adh','adminhome');
 Route::view('adminstud','adminstud');
+Route::view('qlbca','quiklink');
+Route::view('bscql','bscql');
+Route::view('baql','baql');
+Route::view('bbaql','bbaql');

@@ -39,7 +39,7 @@
         </h5>
 
         <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
-            <div class="card-header"><a href="" style="color: antiquewhite;">𝐁𝐂𝐀
+            <div class="card-header"><a href="qlbca" style="color: antiquewhite;">𝐁𝐂𝐀
                 </a>
             </div>
             <div class="card-body">
@@ -48,14 +48,14 @@
             </div>
         </div>
         <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
-            <div class="card-header"><a href="" style="color: antiquewhite;">𝐁𝐬𝐜.𝐂𝐬</a></div>
+            <div class="card-header"><a href="bscql" style="color: antiquewhite;">𝐁𝐬𝐜.𝐂𝐬</a></div>
             <div class="card-body">
                 <h5 class="card-title"></h5>
                 <p class="card-text"></p>
             </div>
         </div>
         <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
-            <div class="card-header"><a href="" style="color: antiquewhite;">
+            <div class="card-header"><a href="bbaql" style="color: antiquewhite;">
                     𝐁𝐁𝐀</a></div>
             <div class="card-body">
                 <h5 class="card-title"></h5>
@@ -63,7 +63,7 @@
             </div>
         </div>
         <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-            <div class="card-header"><a href="" style="color: antiquewhite;">𝐁𝐀.𝐄𝐧𝐠𝐥𝐢𝐬𝐡</a></div>
+            <div class="card-header"><a href="baql" style="color: antiquewhite;">𝐁𝐀.𝐄𝐧𝐠𝐥𝐢𝐬𝐡</a></div>
             <div class="card-body">
                 <h5 class="card-title"></h5>
                 <p class="card-text"></p>
