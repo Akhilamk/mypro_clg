@@ -45,3 +45,4 @@ Route::view('qlbca','quiklink');
 Route::view('bscql','bscql');
 Route::view('baql','baql');
 Route::view('bbaql','bbaql');
+Route::view('studhome','studenthome');

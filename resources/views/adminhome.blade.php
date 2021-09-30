@@ -42,7 +42,7 @@
         </div>
         <br>
         <div style="width: 150px;height: 100px;background-color: darkmagenta;margin-left: 20px;text-align: center;">
-            <a href="" id="a1"><br> News</a>
+            <a href="news" id="a1"><br> News</a>
 
         </div>
         <br>
